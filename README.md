@@ -30,7 +30,7 @@ The Stock Portfolio Tracker allows users to:
 
 2. Navigate to the folder:
 
-cd CodeAlpha_StockPortfolio
+   cd CodeAlpha_StockPortfolio
 
 3. Run the program:
  
